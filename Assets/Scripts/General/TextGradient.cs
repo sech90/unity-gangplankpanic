@@ -4,12 +4,12 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 
 [AddComponentMenu("UI/Effects/Gradient")]
-public class TextGradient : BaseVertexEffect {
+public class TextGradient {//: BaseMeshEffect {
 	[SerializeField]
 	private Color32 topColor = Color.white;
 	[SerializeField]
 	private Color32 bottomColor = Color.black;
-	
+	/*
 	public override void ModifyVertices(List<UIVertex> vertexList) {
 		if (!IsActive()) {
 			return;
@@ -36,5 +36,5 @@ public class TextGradient : BaseVertexEffect {
 			uiVertex.color = Color32.Lerp(bottomColor, topColor, (uiVertex.position.y - bottomY) / uiElementHeight);
 			vertexList[i] = uiVertex;
 		}
-	}
+	}*/
 }

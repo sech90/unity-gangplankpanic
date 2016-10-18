@@ -45,6 +45,8 @@ public class GameHandler : MonoBehaviour {
 
 	void Update()
 	{
+
+
 		if (UserInput.Exit()){
 			Application.Quit();
 		}
@@ -59,9 +61,6 @@ public class GameHandler : MonoBehaviour {
 			return;
 		}
 
-		if(ScoreText != null){
-			ScoreText.text = _score+"";
-		}
 
 	}
 

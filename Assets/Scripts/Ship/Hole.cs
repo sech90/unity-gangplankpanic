@@ -30,9 +30,9 @@ public class Hole : InteractiveObject {
 		_halo = transform.FindChild("HoleHalo").GetComponent<ParticleSystem>();
 		_spray = transform.FindChild("WaterSpry").GetComponent<ParticleSystem>();
 
-		_jet.renderer.sortingLayerName = "Particles";
-		_halo.renderer.sortingLayerName = "Particles";
-		_spray.renderer.sortingLayerName = "Particles";
+		_jet.GetComponent<Renderer>().sortingLayerName = "Particles";
+		_halo.GetComponent<Renderer>().sortingLayerName = "Particles";
+		_spray.GetComponent<Renderer>().sortingLayerName = "Particles";
 	}
 
 	public float GetWaterPerSec(){

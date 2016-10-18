@@ -41,7 +41,7 @@ public class BlowingCloud : MonoBehaviour {
 	void OnTriggerEnter2D(Collider2D coll){
 		Ship ship = coll.GetComponent<Ship>();
 		if(ship != null){
-			_wind.gameObject.renderer.enabled = true;
+			_wind.gameObject.GetComponent<Renderer>().enabled = true;
 			AudioSource.PlayClipAtPoint(blowSound, transform.position);
 		}
 	}
@@ -49,7 +49,7 @@ public class BlowingCloud : MonoBehaviour {
 	void OnTriggerExit2D(Collider2D coll){
 		Ship ship = coll.GetComponent<Ship>();
 		if(ship != null){
-			_wind.gameObject.renderer.enabled = false;
+			_wind.gameObject.GetComponent<Renderer>().enabled = false;
 		}
 	}
 

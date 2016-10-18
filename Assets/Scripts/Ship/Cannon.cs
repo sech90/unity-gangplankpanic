@@ -75,7 +75,7 @@ public class Cannon : InteractiveObject {
 			GameObject bullet = Instantiate(_cannonBall,_spawner.position,_hinge.localRotation) as GameObject;
 			Vector2 distance = _spawner.position - _hinge.position;
 			Vector2 forceDirection = distance / distance.magnitude;
-			bullet.rigidbody2D.AddForce(CannonPower * forceDirection, ForceMode2D.Impulse);
+			bullet.GetComponent<Rigidbody2D>().AddForce(CannonPower * forceDirection, ForceMode2D.Impulse);
 			Instantiate(Explosion,_spawner.position,_hinge.localRotation);
 			if (_explosionSoundToggle)
 	 			AudioSource.PlayClipAtPoint(ExplosionSound1,_spawner.position);
