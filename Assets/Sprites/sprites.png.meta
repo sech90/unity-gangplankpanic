@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 1c9dff6992bc4414facff30ce2834135
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tail_paddle
+    21300002: torso
+    21300004: front_paddle_big
+    21300006: back_paddle
+    21300008: tail
+    21300010: front_paddle_bottom
+    21300012: PIVOTPOINT
+    21300014: sprites_7
+    21300016: sprites_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tail_paddle
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 509
+        width: 206
+        height: 291
+      alignment: 9
+      pivot: {x: .0869406983, y: .637848616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: torso
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 325
+        height: 800
+      alignment: 9
+      pivot: {x: .518191099, y: .381688654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: front_paddle_big
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 474
+        width: 243
+        height: 314
+      alignment: 9
+      pivot: {x: .830156505, y: .767116666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back_paddle
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 223
+        width: 194
+        height: 273
+      alignment: 9
+      pivot: {x: .312024593, y: .535621166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tail
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 19
+        width: 479
+        height: 358
+      alignment: 9
+      pivot: {x: .119339913, y: .384554297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: front_paddle_bottom
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 147
+        height: 201
+      alignment: 9
+      pivot: {x: .23538509, y: .929381967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PIVOTPOINT
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 550
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

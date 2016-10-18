@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 9b85ff9b8113746f780743917470a1f3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ship
+    21300002: ShipSpritesheet_1
+    21300004: Main Sail
+    21300006: Small sail
+    21300008: Pump valve
+    21300010: Wheel
+    21300012: Lantern
+    21300014: CannonLeft
+    21300016: CannonRight
+    21300018: BilgeLine
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ship
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 337
+        height: 915
+      alignment: 9
+      pivot: {x: .5, y: .116399899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShipSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 347
+        height: 411
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 7}
+    - name: Main Sail
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 431
+        width: 469
+        height: 161
+      alignment: 9
+      pivot: {x: .506658673, y: .858847678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Small sail
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 616
+        width: 288
+        height: 167
+      alignment: 9
+      pivot: {x: .489156306, y: .855305016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pump valve
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 622
+        width: 80
+        height: 65
+      alignment: 9
+      pivot: {x: .218713373, y: .851816058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 702
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lantern
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 794
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: .439007312, y: .89040947}
+      border: {x: 0, y: 0, z: 0, w: 3}
+    - name: CannonLeft
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 798
+        width: 99
+        height: 23
+      alignment: 9
+      pivot: {x: .902388752, y: .529862106}
+      border: {x: 0, y: 2, z: 0, w: 0}
+    - name: CannonRight
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 795
+        width: 99
+        height: 25
+      alignment: 9
+      pivot: {x: .111206673, y: .499997556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BilgeLine
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 0
+        width: 101
+        height: 10
+      alignment: 9
+      pivot: {x: .00891113281, y: .780001044}
+      border: {x: 1, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

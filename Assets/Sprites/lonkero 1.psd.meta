@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 98d97203dc47f49e6936ec52548e3b60
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lonkero 1_0
+    21300002: lonkero 1_1
+    21300004: lonkero 1_2
+    21300006: lonkero 1_3
+    21300008: lonkero 1_4
+    21300010: lonkero 1_5
+    21300012: lonkero 1_6
+    21300014: lonkero 1_7
+    21300016: lonkero 1_8
+    21300018: lonkero 1_9
+    21300020: lonkero 1_10
+    21300022: lonkero 1_11
+    21300024: lonkero 1_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lonkero 1_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1126
+        width: 85
+        height: 116
+      alignment: 9
+      pivot: {x: .271732479, y: .0976383612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lonkero 1_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1076
+        width: 47
+        height: 130
+      alignment: 9
+      pivot: {x: .73539573, y: .0346717238}
+      border: {x: 0, y: 2, z: 0, w: 0}
+    - name: lonkero 1_2
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1099
+        width: 94
+        height: 138
+      alignment: 9
+      pivot: {x: .656300664, y: .0675146133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lonkero 1_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 832
+        width: 185
+        height: 246
+      alignment: 9
+      pivot: {x: .772687256, y: .105634987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lonkero 1_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 771
+        width: 167
+        height: 253
+      alignment: 9
+      pivot: {x: .214138374, y: .0990306288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lonkero 1_5
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 843
+        width: 200
+        height: 230
+      alignment: 9
+      pivot: {x: .1419577, y: .0935268253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lonkero 1_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 373
+        width: 197
+        height: 394
+      alignment: 9
+      pivot: {x: .362112284, y: .0567899607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lonkero 1_7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 488
+        width: 125
+        height: 257
+      alignment: 9
+      pivot: {x: .766201675, y: .0490682274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lonkero 1_8
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 487
+        width: 206
+        height: 311
+      alignment: 9
+      pivot: {x: .567591369, y: .10345459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lonkero 1_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 16
+        width: 250
+        height: 274
+      alignment: 9
+      pivot: {x: .75611645, y: .103447646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lonkero 1_10
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 152
+        width: 113
+        height: 229
+      alignment: 9
+      pivot: {x: .489846021, y: .0901902393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lonkero 1_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 54
+        width: 280
+        height: 324
+      alignment: 9
+      pivot: {x: .293983907, y: .0763905868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lonkero 1_12
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 156
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
